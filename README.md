@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 01a1d06416de247203c8b3c430cf11e498600aef
 # Getting Started
 
 Welcome to your new project.
@@ -23,3 +27,10 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+<<<<<<< HEAD
+=======
+=======
+# capapp
+Risk Management Fiori App
+>>>>>>> 03b3645f1ec10c1ca45af7c371d6e4a8484061f4
+>>>>>>> 01a1d06416de247203c8b3c430cf11e498600aef

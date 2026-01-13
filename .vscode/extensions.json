@@ -5,8 +5,11 @@
 		"mechatroner.rainbow-csv",
 		"qwtel.sqlite-viewer",
 		"humao.rest-client"
+<<<<<<< HEAD
 	],
 	"unwantedRecommendations": [
 
+=======
+>>>>>>> 01a1d06416de247203c8b3c430cf11e498600aef
 	]
 }

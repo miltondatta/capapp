@@ -1,2 +1,15 @@
 {
+<<<<<<< HEAD
 }
+=======
+  // uncomment entries once all libraries have been installed via 'npm install'
+  "eslint.validate": [
+    // "javascript",
+    // "typescript",
+    // "csv",
+    // "csv (semicolon)",
+    // "tab",
+    // "tsv"
+  ]
+}
+>>>>>>> 01a1d06416de247203c8b3c430cf11e498600aef
